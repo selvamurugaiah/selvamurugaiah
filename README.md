@@ -11,8 +11,10 @@
 <p><a href="https://selvam-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-4E69C8?style=for-the-badge&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>  <a href="https://www.linkedin.com/in/selvam-m-434676258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> </p>
 
 # 💻 Tech Stack:
-<p align="left" margin-left="50">
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="50" height="50" margin="20" />   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="50" height="50" />
+<p align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="50" height="50" margin="20" />  
+  
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="50" height="50" />
 
 
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="50" height="50" />
@@ -48,7 +50,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="60" height="60" />
 </p>
 
-#💻 Front End:
+# 💻 Front End:
 <p align="left" margin-left="50">
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="50" height="50" margin="20" />
 
@@ -72,11 +74,11 @@
 <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="netlify" width="50" height="50" />
 
 
-<img src="https://th.bing.com/th/id/OIP.B1zKyI6jiSPfwhzVH0EdwgHaDC?w=309&h=143&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="chartjs" width="50" height="50" />
+<img src="https://th.bing.com/th/id/OIP.B1zKyI6jiSPfwhzVH0EdwgHaDC?w=309&h=143&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="chartjs" width="70" height="50" />
 
 </p>
 
-#💻 Back End:
+# 💻 Back End:
 <p align="left" margin-left="50">
 
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="50" height="50" />
