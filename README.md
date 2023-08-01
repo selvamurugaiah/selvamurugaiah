@@ -12,10 +12,7 @@
 
 # 💻 Tech Stack:
 <p align="left" margin-left="50">
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="50" height="50" margin="20" />
-
-  
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="50" height="50" margin="20" />   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="50" height="50" />
 
 
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="50" height="50" />
