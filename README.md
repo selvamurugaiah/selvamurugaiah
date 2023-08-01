@@ -36,7 +36,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="50" height="50" />
 
 
-<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="netlify" width="50" height="50" /><br>
+<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="netlify" width="50" height="50" />
 
 
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql" width="50" height="50" />
