@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/27279740/164895446-7bcdb5b4-06dd-4763-aa96-80e0fbdf4667.png)
+
+
+
 # 💫 About Me:
 🔭 I’m currently learning MERN-Full stack development<br>👯 I’m looking to collaborate on FSD related projects, building websites.<br>📫 How to reach me selvamurugaiah100@gmail.com<br>💬 Ask me about React, Redux<br>⚡ Fun fact Fun facts are not always fun
 
