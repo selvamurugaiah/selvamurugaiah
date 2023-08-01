@@ -11,7 +11,7 @@
 <p><a href="https://selvam-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-4E69C8?style=for-the-badge&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>  <a href="https://www.linkedin.com/in/selvam-m-434676258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> </p>
 
 # 💻 Tech Stack:
-<p align="left"margin="20px">
+<p align="left" margin="50px">
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="50" height="50" />
 
   
