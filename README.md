@@ -8,10 +8,25 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/selvam-m-434676258) 
-<p><a href="https://selvam-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-4E69C8?style=for-the-badge&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a></p>
+<p><a href="https://selvam-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-4E69C8?style=for-the-badge&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a><a href="https://www.linkedin.com/in/selvam-m-434676258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> </p>
 
 # 💻 Tech Stack:
+<p align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="nodejs" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="netlify" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg" alt="mongoose" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="50" height="50" />
+<img src=" https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="50" height="50" />
+</p>
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # FrontEnd:
