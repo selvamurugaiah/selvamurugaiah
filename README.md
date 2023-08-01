@@ -1,12 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently learning MERN-Full stack development<br>👯 I’m looking to collaborate on FSD related projects, building websites, UI/UX and apps.<br>📫 How to reach me selvamurugaiah100@gmail.com<br>💬 Ask me about React, Redux<br>⚡ Fun fact Fun facts are not always fun
+🔭 I’m currently learning MERN-Full stack development<br>👯 I’m looking to collaborate on FSD related projects, building websites.<br>📫 How to reach me selvamurugaiah100@gmail.com<br>💬 Ask me about React, Redux<br>⚡ Fun fact Fun facts are not always fun
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/selvam-m-434676258) 
 
 # 💻 Tech Stack:
-![Html](https://th.bing.com/th/id/OIP.YETPINz9rWob6pb91NvoIgHaHa?w=181&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Html](<img src="https://th.bing.com/th/id/OIP.YETPINz9rWob6pb91NvoIgHaHa?w=181&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7" width=100 height=100>) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # FrontEnd:
    
