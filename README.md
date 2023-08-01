@@ -40,15 +40,15 @@
 
 
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql" width="50" height="50" />
-<br>
+<br><br>
 
-<img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="60" height="60" />
 
-<img src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg" alt="mongoose" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg" alt="mongoose" width="60" height="60" />
 
-<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="60" height="60" />
 
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="60" height="60" />
 </p>
 
 # FrontEnd:
