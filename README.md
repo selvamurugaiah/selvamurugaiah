@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-<p><a href="https://selvam-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-4E69C8?style=for-the-badge&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a><a href="https://www.linkedin.com/in/selvam-m-434676258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> </p>
+<p><a href="https://selvam-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-4E69C8?style=for-the-badge&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>  <a href="https://www.linkedin.com/in/selvam-m-434676258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> </p>
 
 # 💻 Tech Stack:
 <p align="left">
@@ -39,7 +39,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="netlify" width="50" height="50" />
 
 
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql" width="50" height="50" /><br>
 
 <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="50" height="50" />
 
