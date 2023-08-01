@@ -25,9 +25,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg" alt="mongoose" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="50" height="50" />
-<img src=" https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="50" height="50" />
 </p>
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # FrontEnd:
    
