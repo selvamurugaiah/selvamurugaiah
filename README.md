@@ -3,11 +3,13 @@
 
 
 # 💫 About Me:
+  <h2>Hey 👋, I'm <a href="https://selvam-portfolio.netlify.app/">Selvam</a></h2>
 🔭 I’m currently learning MERN-Full stack development<br>👯 I’m looking to collaborate on FSD related projects, building websites.<br>📫 How to reach me selvamurugaiah100@gmail.com<br>💬 Ask me about React, Redux<br>⚡ Fun fact Fun facts are not always fun
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/selvam-m-434676258) 
+<p><a href="https://selvam-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-4E69C8?style=for-the-badge&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a></p>
 
 # 💻 Tech Stack:
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
